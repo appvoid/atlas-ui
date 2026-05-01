@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+![image](https://github.com/appvoid/atlas-ui/blob/main/demo.png?raw=true)
 
-# Run and deploy your AI Studio app
+# Prueba a Atlas
 
-This contains everything you need to run your app locally.
+Este proyecto contiene todo el aspecto visual de la API oficial.
 
-View your app in AI Studio: https://ai.studio/apps/9169bb47-dde0-4c20-81f5-2c8df1c736a0
+La app fue creada usando gemini: https://ai.studio/apps/9169bb47-dde0-4c20-81f5-2c8df1c736a0
 
-## Run Locally
+## Ejecuta en local
 
-**Prerequisites:**  Node.js
+**Prerequisitios:**  Node.js
 
-
-1. Install dependencies:
+1. Instala dependencias:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Pon `GEMINI_API_KEY` en [.env.local](.env.local) para tu API key de Gemini
+3. Corre la app:
    `npm run dev`
