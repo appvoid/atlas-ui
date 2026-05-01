@@ -1,0 +1,6 @@
+{
+  "name": "TextClassifier.ar",
+  "description": "Una aplicación minimalista en blanco y negro para clasificar textos de soporte técnico mediante IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
